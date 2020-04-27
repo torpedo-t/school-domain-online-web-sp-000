@@ -12,13 +12,12 @@ roster = {}
   end
 
   def add_student(name, grade)
-
+    roster[grade] = []
+    roster[grade] << name
   end
-roster["AC Slater"] = []
-roster["AC Slater"] << "9"
 #binding.pry
 
  def grade(grade)
-   
+
  end
 end
