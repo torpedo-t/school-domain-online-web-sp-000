@@ -19,4 +19,6 @@ attr_reader :name
  end
 
  def sort
+   @roster.each do |grade, names|
+     
 end
