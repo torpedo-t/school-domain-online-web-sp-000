@@ -15,6 +15,6 @@ attr_reader :name
 #binding.pry
 
  def grade(grade)
-
+  @roster[grade]
  end
 end
