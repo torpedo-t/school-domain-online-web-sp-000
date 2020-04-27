@@ -12,5 +12,7 @@ roster = {}
   def add_student(name, grade)
 
   end
+roster["AC Slater"] = []
+roster["AC Slater"] << "9"
 binding.pry
 end
