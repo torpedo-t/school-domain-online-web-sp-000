@@ -17,5 +17,6 @@ roster["AC Slater"] << "9"
 #binding.pry
 
  def grade(grade)
+   
  end
 end
