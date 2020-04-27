@@ -12,7 +12,7 @@ attr_reader :name
     @roster[grade] ||= []
     @roster[grade] << name
   end
-binding.pry
+#binding.pry
 
  def grade(grade)
   @roster[grade]
