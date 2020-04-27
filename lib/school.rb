@@ -10,11 +10,11 @@ roster = {}
   end
 
   def add_student(name, grade)
-  roster << 
+  roster <<
   end
 roster["AC Slater"] = []
 roster["AC Slater"] << "9"
-binding.pry
+#binding.pry
 
  def grade(grade)
 
